@@ -1,0 +1,47 @@
+{
+  "path": "ground/grass.png",
+  "class": "texture",
+  "type": "img",
+  "list": [
+    {
+      "name": "Light Grass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "Light Grass",
+      "x": 16,
+      "y": 0
+    },
+    {
+      "name": "Light Grass",
+      "x": 32,
+      "y": 0
+    },
+    {
+      "name": "Grass",
+      "x": 0,
+      "y": 16
+    },
+    {
+      "name": "Grass",
+      "x": 16,
+      "y": 16
+    },
+    {
+      "name": "Grass",
+      "x": 32,
+      "y": 16
+    },
+    {
+      "name": "Trail H",
+      "x": 48,
+      "y": 0
+    },
+    {
+      "name": "Trail V",
+      "x": 48,
+      "y": 16
+    }
+  ]
+}

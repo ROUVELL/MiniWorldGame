@@ -1,0 +1,7 @@
+# PyCharm files
+.idea/
+__pycache__/
+venv
+
+# Game Resources  https://merchant-shade.itch.io/16x16-mini-world-sprites
+MiniWorldSprites/

@@ -1,0 +1,37 @@
+{
+  "path": "ground/grass.png",
+  "class": "texture",
+  "type": "img",
+  "list": [
+    {
+      "name": "Dead Grass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "Dead Grass",
+      "x": 16,
+      "y": 0
+    },
+    {
+      "name": "Dead Grass",
+      "x": 32,
+      "y": 0
+    },
+    {
+      "name": "Dead Grass",
+      "x": 0,
+      "y": 16
+    },
+    {
+      "name": "Dead Grass",
+      "x": 16,
+      "y": 16
+    },
+    {
+      "name": "Dead Grass",
+      "x": 32,
+      "y": 16
+    }
+  ]
+}

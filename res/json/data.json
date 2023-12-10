@@ -1,0 +1,11 @@
+[
+  {
+    "category": "textures",
+    "files":
+      [
+        "ground/grass.json",
+        "ground/shore.json",
+        "ground/dead-grass.json"
+      ]
+  }
+]

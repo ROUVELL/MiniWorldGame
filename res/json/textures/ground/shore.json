@@ -1,0 +1,32 @@
+{
+  "path": "ground/shore.png",
+  "class": "texture",
+  "type": "img",
+  "list": [
+    {
+      "name": "Sand",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "name": "Water L1",
+      "x": 16,
+      "y": 0
+    },
+    {
+      "name": "Water L2",
+      "x": 32,
+      "y": 0
+    },
+    {
+      "name": "Water L3",
+      "x": 48,
+      "y": 0
+    },
+    {
+      "name": "Water L4",
+      "x": 64,
+      "y": 0
+    }
+  ]
+}

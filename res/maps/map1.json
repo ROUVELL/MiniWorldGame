@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "list": [
+    {
+      "x": 0,
+      "y": 0,
+      "is_empty": true,
+      "is_water": false,
+      "is_ground": true,
+      "is_blocked": false
+    }
+  ]
+}
